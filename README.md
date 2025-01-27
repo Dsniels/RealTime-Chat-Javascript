@@ -11,11 +11,8 @@
  - En la segunda terminal ejecutar `npm run dev`.
  - Empezar a chatear
 
-> [!Important]
-> En caso de error, ejecutar primero el comando `npm run start` o abrir un nuevo issue para dudas
-> 
-> 
-> **Se aceptan cambios o mejoras**
+
+
 
 
 
